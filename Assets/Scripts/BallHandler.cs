@@ -24,7 +24,6 @@ public class BallHandler : MonoBehaviour
 
     Rigidbody2D currentBallRigidbody;
     SpringJoint2D currentBallSpringJoint;
-    Finger activeFinger;
 
     Camera mainCamera;
     bool isDragging;
